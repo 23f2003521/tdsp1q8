@@ -1,0 +1,6 @@
+{
+  "prompt": "Moody studio-style photograph, soft directional lighting, depicting a craftsman seated at a wooden workbench, where the craftsman's hands have been replaced entirely by precision measuring tools — calipers, rulers, gauges — seamlessly integrated as limbs, the tools are perfectly aligned and calibrated, yet no object on the table is complete or functional, composition: centered subject, unfinished objects scattered across the workspace, the tools are detailed and precise but incapable of creating anything, mood: sterile perfection, quiet failure, loss of purpose, color palette: cold metallic silver, desaturated browns, dim warm highlights, no text, no numbers, no labels, no literal targets, scoreboards, or metrics displayed, photorealistic.",
+  "model": "Gemini 3 Fast (Google AI Studio)",
+  "paradox": "Goodhart's Law",
+  "visual_logic": "Measuring tools replace hands: perfect calibration but zero creation. Precision destroys purpose—tools measure flawlessly, objects remain broken. Viewers feel sterile competence yielding failure."
+}
